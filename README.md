@@ -1,4 +1,4 @@
-# fahrschule
+# fahrschuleAnca
 Scop : imbunatatirea si usurarea gestiunii unei scoli de soferi
 
 Aplicatia web contine un modul de administrare si un modul pentru elevi
